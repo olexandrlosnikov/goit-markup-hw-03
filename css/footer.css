@@ -18,3 +18,8 @@
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
+
+.footer-box {
+  width: 264px;
+  padding: 0 15px;
+}

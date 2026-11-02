@@ -3,6 +3,9 @@
 }
 
 .hero-title {
+  margin: 0 auto;
+  max-width: 496px;
+  padding-bottom: 48px;
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 56px;
@@ -13,6 +16,9 @@
 }
 
 .hero-button {
+  display: block;
+  margin: 0 auto;
+  padding: 16px 32px;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;

@@ -25,3 +25,18 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.portfolio-box {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.portfolio-name {
+  padding-left: 16px;
+  padding-bottom: 32px;
+  padding-top: 32px;
+  border-bottom: 1px solid #e7e9fc;
+  border-left: 1px solid #e7e9fc;
+  border-right: 1px solid #e7e9fc;
+}
