@@ -1,4 +1,4 @@
-#header {
+.header-box {
   border-bottom: 1px solid #e7e9fc;
 }
 
@@ -78,11 +78,13 @@
 }
 
 .nav-link {
+  display: block;
   padding-bottom: 24px;
   padding-top: 24px;
 }
 
 .contact-link {
+  display: block;
   padding-bottom: 24px;
   padding-top: 24px;
 }
