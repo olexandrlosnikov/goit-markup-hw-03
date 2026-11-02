@@ -1,3 +1,7 @@
+#header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
 .logo-head {
   margin-right: 76px;
   padding-bottom: 24px;
@@ -24,8 +28,6 @@
 .nav-list {
   display: flex;
   gap: 40px;
-  padding-bottom: 24px;
-  padding-top: 24px;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -37,8 +39,6 @@
 .contacts-list {
   display: flex;
   gap: 40px;
-  padding-bottom: 24px;
-  padding-top: 24px;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;

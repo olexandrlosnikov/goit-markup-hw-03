@@ -17,9 +17,13 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  margin-top: 16px;
 }
 
 .footer-box {
   width: 264px;
-  padding: 0 15px;
+}
+
+.footer-section {
+  padding: 100px 0;
 }
